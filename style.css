@@ -1,0 +1,78 @@
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+body{
+    background-color:#f6d5ad;
+}
+/*coloresrgb*/
+
+h1{
+    color:#956dbf ;
+    font-family: 'Young Serif', serif;
+    text-align: center;
+}
+header{
+    background-image: url("https://i.pinimg.com/474x/a4/55/fa/a455fa5cab1012aac29e94ce2e40f38a.jpg");
+    
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 300px;
+
+
+    
+
+   
+}
+main{
+    background-color:#f6d5ad;
+}
+p{
+    color:#000000;
+    font-family: 'Roboto', sans-serif;
+    font-size: · 12px;
+
+}
+h3{
+    color: #cd42b4;
+}
+.titulo1{
+    color:#4f2d78;
+    
+}
+.titulo2{
+    color: #cd42b4;
+}
+#lista-desordenada{
+    color: rgb(0, 0, 0);
+    
+}
+#lista-ordenada{
+    color: rgb(0, 0, 0);
+}
+
+img{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    border-radius: 20px;
+}
+
+
+.titulo3{
+    color:#4f2d78;
+}
+.titulo4{
+    color:#4f2d78;
+}
+.titulo2{
+    color:#4f2d78;
+}
+divparrafo{
+    background-color: aqua;
+
+}
